@@ -16,5 +16,5 @@ Node* addLists(Node *list1, Node *list2);
 Node* subtractLists(Node *list1, Node *list2);
 Node* multiplyLists(Node *list1, Node *list2);
 Node* divideLists(Node *list1, Node *list2);
-
+int compareLists(Node *list1, Node *list2);
 #endif
